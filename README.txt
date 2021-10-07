@@ -1,4 +1,4 @@
 Hello Git and GitHub
 
-трампампам!
-trampampam
+
+Added new text
